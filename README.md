@@ -1,6 +1,6 @@
 # Foodborne Illness Forecasting
 
-Time series forecasting of foodborne illness outbreaks using ARIMA, Prophet, LSTM, and ensemble methods on CDC surveillance data to enable 4-week advance warning for public health response.
+Time-series forecasting of foodborne illness outbreaks using ARIMA, Prophet, LSTM, and ensemble ML models on CDC surveillance data.
 
 ## 🎯 Results
 
